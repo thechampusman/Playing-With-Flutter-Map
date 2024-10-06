@@ -64,9 +64,9 @@ For Android
 
     Open android/app/src/main/AndroidManifest.xml.
     Add the following inside the <application> tag, replacing YOUR_API_KEY with your actual API key:
-        <meta-data
-           android:name="com.google.android.geo.API_KEY"
-           android:value="YOUR_API_KEY"/>
+     
+    android:name="com.google.android.geo.API_KEY"
+     android:value="YOUR_API_KEY"
 
 5. Running the App
 

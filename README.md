@@ -12,7 +12,7 @@ Table of Contents
 
 
 ## App Screenshot
-
+<img src="assets/1.jpg"  width="300"/>
 ![App Screenshot](assets/1.jpg)
 ![App Screenshot](assets/2.jpg)
 ![App Screenshot](assets/3.jpg)

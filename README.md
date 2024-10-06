@@ -2,6 +2,7 @@ This is a Flutter application that allows users to input a location and display 
 
 Table of Contents
 
+    SnapShots
     Features
     Requirements
     Setup Instructions
@@ -9,6 +10,12 @@ Table of Contents
     Configure Google Maps API Key
     Running the App
 
+
+## App Screenshot
+
+![App Screenshot](assets/1.png)
+![App Screenshot](assets/2.png)
+![App Screenshot](assets/3.png)
 Features
 
     Location Search: Users can search for a location by name (e.g., city, address) and view it on Google Maps.

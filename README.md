@@ -13,9 +13,9 @@ Table of Contents
 
 ## App Screenshot
 <img src="assets/1.jpg"  width="300"/>
-![App Screenshot](assets/1.jpg)
-![App Screenshot](assets/2.jpg)
-![App Screenshot](assets/3.jpg)
+<img src="assets/2.jpg"  width="300"/>
+<img src="assets/3.jpg"  width="300"/>
+
 Features
 
     Location Search: Users can search for a location by name (e.g., city, address) and view it on Google Maps.
